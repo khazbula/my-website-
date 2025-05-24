@@ -51,4 +51,5 @@ body {
 .navigation a:hover {
   color: #facc15;
 }
-img{ display: flex;}
+img{ display: flex;
+   justify-content:center;}
