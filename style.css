@@ -51,3 +51,4 @@ body {
 .navigation a:hover {
   color: #facc15;
 }
+img{ display: flex;}
